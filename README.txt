@@ -1,0 +1,4 @@
+BeautyScheme
+第一次git
+基本的程序界面框架已完成
+有一些xml暂时没有用上
